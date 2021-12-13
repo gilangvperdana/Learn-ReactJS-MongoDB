@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: auth
-          image: cygnetops/auth
+          image: gilangvperdana/research:auth1.1.1
 ---
 apiVersion: v1
 kind: Service

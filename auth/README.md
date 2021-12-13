@@ -1,5 +1,17 @@
-## Learning about Micro Services with DB
+## Frontend with ReactJS
 
 ```
-Learning ReactJS frontend with MongoDB for Database
+Build :
+$ npm run build
+
+Start :
+$ npm start
+```
+
+## Docker 
+
+```
+Docker Ready !
+$ docker build -t imagename .
+Work on Port 3000
 ```
