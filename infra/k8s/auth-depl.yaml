@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: auth
-          image: gilangvperdana/research:auth1.1.2
+          image: gilangvperdana/research:auth1.1.4
 ---
 apiVersion: v1
 kind: Service
